@@ -9647,6 +9647,11 @@ html {
   
 }
 
+@font-face {
+  font-family: Rogthem;
+  src: url(../assets/Rogthem.ttf);
+}
+
 #p_activa {
   font-family: Rogthem;
   font-size: 45px;
